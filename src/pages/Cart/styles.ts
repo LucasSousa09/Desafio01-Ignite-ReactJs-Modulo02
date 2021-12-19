@@ -27,6 +27,10 @@ export const Container = styled.div`
       }
     }
   }
+  h1{
+    text-align: center;
+    color: #a0a0a0;
+  }
 `;
 
 export const ProductTable = styled.table`
